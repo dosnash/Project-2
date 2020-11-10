@@ -1,0 +1,50 @@
+body{background:lightblue;margin:0;padding:0;box-sizing: border-box;background:;}
+.logo{height: 30px;width: 30px;border-radius: 30px;}
+header{height:600px;width:100%;background:black url("file:///C:/Users/user/Desktop/Microsoft%20Office/develop/project/images/burj_dubai_skyscrapers_uae-1920x1200.jpg")
+no-repeat scroll center
+;background-size:cover;margin-bottom:200px;}
+.left{text-align:right;background:transparent;}
+.left a{text-decoration: none;color:black;padding:8px 40px;font-style:bold;}
+.left a:hover{color:red;}
+.first{text-align: center;}
+.first h1{color:lightblue;font-family:cursive;margin-top:150px;font-size: 50px;}
+.first p{color:#eee;font-family:segoe script;margin-bottom: 60px;}
+.container{text-align: center;display:flex;margin-top:30px;
+	justify-content:space-around;align-items: center;margin-bottom:50px;
+}
+.teaser{width: 400px;background:transparent;max-height: 500px;}
+.teaser img:hover{
+filter: grayscale(20%);
+
+}
+.teaser h4{font-size:20px;font-family:cursive;color:black;}
+.teaser p{color:white;margin:20px;font-family:segoe UI;}
+.about-us{text-align:center;min-width: 800px;margin-bottom:50px;}
+.about-us h6,h2{font-size:30px;font-family: serif;padding: 0;margin: 20px;}
+.about-us p{font-family:sans-serif;}
+.about-us img{width:60%;height:40%;}
+.about-us img:hover{filter:grayscale(20%);}
+.teaser2{text-align: center;}
+.teaser2 h3{font-family: algerian;font-size: 30px;margin-bottom:20px;}
+.teaser p{font-family:serif; margin:0px;}
+.btn-t2{box-shadow:0px 3px 6px 0px rgba(0,0,0,0.5);font-size:19px;width:60%;padding:25px;background:#4caf50;color: white;border:1px solid transparent;}
+.Dishes{text-align:center;display:flex;flex-direction:row;justify-content:space-around;
+align-content: space-around;
+}
+button,a{cursor:pointer;}
+.center{text-align:center;text-decoration: none;}
+figure img{width:400px;height: 400px;}
+.Dishes a{text-decoration: none;color:#44aaff;text-align: center;font-size: 20px;}
+.btn-dishes{box-shadow:0px 3px 3px 0px rgba(0,0,0,0.5);font-size:19px;font-family:cursive;color:white;background:#ff44aa;width:60%;padding:25px;border:1px solid transparent;}
+	footer{width:100%;margin:20px;background:#222;position: static;bottom:0;
+	}
+	.slide{display:flex;text-align: center;justify-content: space-around;}
+	.content{width:400px;padding: 20px;}
+	.content h6{margin-bottom:0;font-size:17px;font-weight:bold;font-family: segoe script;}
+	.content p{font-size:15px; font-family:courier;}
+	.footer-nav{text-align:right;padding:16px;}
+	footer p{color: #eee;font-family: courier;font-size:15px;}
+	.footer-nav a{text-decoration: none;padding:8px 30px;color:white;}
+		hr{background:black;height: 10px;}
+		.mine{text-align: center;}
+		.mine h3{font-size:18px;font-family: lucida handwriting;}
